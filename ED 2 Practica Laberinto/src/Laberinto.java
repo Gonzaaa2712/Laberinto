@@ -104,7 +104,6 @@ public class Laberinto {
 
             if(coordenadaActual.iguales(salida)){
                 salidaEncontrada = true;
-             //   salida.mostrar();
             }
 
 
