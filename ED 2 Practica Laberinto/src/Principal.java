@@ -27,7 +27,7 @@ public class Principal {
             System.out.println("No existe camino desde la entrada a la salida \n");
         }
 
-        // TODO Completar el main usando LaberintoStack
+        
         System.out.println("USANDO STACK :\n");
         LaberintoStack laberintoStack = new LaberintoStack(TAMAÑO, tabla, entrada, salida);
         laberintoStack.mostrar();
