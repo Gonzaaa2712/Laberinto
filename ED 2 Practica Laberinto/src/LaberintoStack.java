@@ -7,7 +7,7 @@ public class LaberintoStack {
     private boolean[][] visitados;
     Stack<Pila> pilaCaminos;
 
-
+//lol
     public LaberintoStack(int tamaño, char[][] tablero, Coordenada entrada, Coordenada salida) {
         this.TAMAÑO = tamaño;
         this.tablero = tablero;
@@ -19,7 +19,7 @@ public class LaberintoStack {
                 this.visitados[i][j] = false;
             }
         }
-        // TODO Inicializar pilaCaminos
+        
         this.pilaCaminos = new Stack<>();
     }
 
