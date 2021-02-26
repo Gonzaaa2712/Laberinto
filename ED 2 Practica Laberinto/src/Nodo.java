@@ -1,6 +1,6 @@
 public class Nodo {
 
-    private Coordenada dato;
+    private Coordenada dato; //Comentario de Gonzalo
     private Nodo siguiente; //Esto es un comentario.
 
     public Nodo(Coordenada dato, Nodo siguiente) {
