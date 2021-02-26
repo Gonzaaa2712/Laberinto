@@ -1,7 +1,7 @@
 public class Nodo {
 
     private Coordenada dato;
-    private Nodo siguiente;
+    private Nodo siguiente; //Esto es un comentario.
 
     public Nodo(Coordenada dato, Nodo siguiente) {
         this.dato = dato;
