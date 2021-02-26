@@ -3,6 +3,9 @@ public class Nodo {
     private Coordenada dato; //Comentario de Gonzalo
     private Nodo siguiente; //Esto es un comentario.
     //Segundo comentario Gonzalo
+    /*Este es un comentario
+     * múltiple
+     */
 
     public Nodo(Coordenada dato, Nodo siguiente) {
         this.dato = dato;
